@@ -72,7 +72,7 @@ Resistance to such fundamental shifts typically proves futile and counterproduct
 
 The criticism of GitHub Copilot's monetization often overlooks practical realities:
 
-**"u forget github copilot is free and it has a pro version to pay the electricity bill u caused, the water evaporated in dat center, and the labour cost and the NVIDIA gpu u fucking people bashing and using in vs code sidebar, all counts"**[^1]
+**"They are paying for Maintainance?[^1]
 
 Key economic considerations:
 
