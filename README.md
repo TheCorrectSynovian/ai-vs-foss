@@ -86,7 +86,7 @@ Key economic considerations:
 
 Rather than replacing developers, AI tools like Copilot serve as force multipliers:
 
-**"AI is behind foss, it cant innovate, foss devs you arent unemployed by AI, only the worthless so called devs vanished, u real foss is still a teacher for ai, we humans and the ai u hated both waiting for your innovation, its not a threat"**[^1]
+**"AI is behind foss, it cant innovate, real foss is still a teacher for ai, we humans and the hated ai both needs for your innovation, its not a threat"**[^1]
 
 This perspective positions FOSS developers as:
 
