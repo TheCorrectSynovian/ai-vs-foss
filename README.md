@@ -229,7 +229,7 @@ The machine didn't steal from us—it learned from us. And in learning, it becam
 
 ## References
 
-User conversation regarding FOSS, Microsoft, and GitHub Copilot, August 27, 2025[^1]
+Some User conversation regarding FOSS, Microsoft, and GitHub Copilot, Reddit, and Other Social medias[^1]
 
 ***
 
