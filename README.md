@@ -62,7 +62,7 @@ Open Source Initiative (OSI) states AI training on public code breaks the tradit
 
 ---
 
-## Conclusion
+## So What?
 
 > **AI is not your replacement — it’s your reflection.**
 
@@ -71,7 +71,7 @@ AI learned from you — from *FOSS devs*, from every README, every clever hack. 
 - FOSS **raised the machine**.
 - The machine **waits for its teachers**.
 - The future of AI and open source must be built together — responsibly, ethically, and boldly.
-
+[Next Page](https://github.com/TheCorrectSynovian/foss-taught-the-machine/tree/why-hate-comes)*  
 ---
 
 ## 📚 Citations
