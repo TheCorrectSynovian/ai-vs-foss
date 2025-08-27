@@ -58,7 +58,7 @@ This perspective reframes AI not as an exploiter, but as a student who has absor
 
 ### The Innovation Imperative
 
-**"AI was invented and we are going in a predefined path like its our fate, we cant undo ai innovation now. we should understand. time has changed foss, we have only option, accept the ai revolution like its industrial revolution and move on with our chores"**[^1]
+**"AI was invented and we are going in a predefined path like its our fate, we cant undo ai innovation now. we should understand. time has changed , we have only option, accept the ai revolution like its industrial revolution and move on with our chores"**[^1]
 
 This argument recognizes AI as an inevitable technological evolution similar to:
 
