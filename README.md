@@ -1,4 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" style="height:64px;margin-right:64px"/>
+
 # 🧠 AI, FOSS, and Developer Ethics: GitHub Copilot and the Open-Source Future
 
 ## Overview
